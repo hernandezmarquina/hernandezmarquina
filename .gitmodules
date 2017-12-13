@@ -1,3 +1,7 @@
 [submodule "themes/future"]
 	path = themes/future
 	url = https://github.com/jpescador/hugo-future-imperfect.git
+[submodule "public"]
+	path = public
+	url = git@github.com:hernandezmarquina/hernandezmarquina.github.io.git
+	branch = master

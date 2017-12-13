@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swift on Jonathan Hdez</title>
+    <link>/categories/swift/</link>
+    <description>Recent content in Swift on Jonathan Hdez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/swift/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Objective-C libraries in Swift</title>
+      <link>/blog/using-objective-c-libraries-in-swift/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/using-objective-c-libraries-in-swift/</guid>
+      <description>In this post I&amp;rsquo;m going to write how you can use Objective-c libraries in your Swift project.
+Xcode projects can contain either language, you can use this feature called Mix and Match to implement the latest swift features in your existing Objective-C proyect, or use objective-c code in new swift apps.
+For this example, I&amp;rsquo;m going to import ProgressHUD library, a lightweight and easy-to-use HUD for iOS. (Objective-C)
+1. Clone or Download ProgressHUD from Github.</description>
+    </item>
+    
+  </channel>
+</rss>
