@@ -2,6 +2,9 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Jonathan Hdez"
 theme = "future"
+googleAnalytics= "UA-111248495-1"
+disqusShortname = "JonathanHdez"
+copyright = "Jonathan Hernandez"
 
 [params]
   # Sets the meta tag description
